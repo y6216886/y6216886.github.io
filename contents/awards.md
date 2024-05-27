@@ -1,8 +1,1 @@
-
-
-  
-
-
-- School Special Academic Scholarship, 2023.**(1%)**
-
-- First-Class Academic Scholarship, 2022.**(8%)**
+- **MICCAI 2019**: Angle Closure Glaucoma Evaluation Challenge on Angle Closure Classification.  Runner-up
